@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Kyle for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Kyle](https://github.com/kliang1194) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca).
